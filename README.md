@@ -42,6 +42,7 @@
 
 *   **Статус:** открыт для предложений (полная занятость, гибрид/удалённо).
 *   **Контакты:** https://max.ru/u/f9LHodD0cOKAtekJk6WC8z3rpW_HJFrVi-PKLWg3KGHyac9rdlXWDrD6yxE
+*   **Проект:** https://github.com/agilmidinov/agilmidinov/blob/main/СалонКрасоты.dt
 
 <!--
 **agilmidinov/agilmidinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
